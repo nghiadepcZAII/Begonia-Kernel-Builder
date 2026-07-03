@@ -6,7 +6,7 @@
       "defconfig": "begonia_user_defconfig",
       "name": "Power-Non-Patches",
       "repo": "https://github.com/Nova-Kernels/kernel_xiaomi_mt6785",
-      "branch": "bka"
+      "branch": "main"
     },
     "withRoot": "none",
     "withSUSFS": false,
