@@ -59,7 +59,7 @@
       "branch": "bka"
     },
     "withRoot": "ksun",
-    "withSUSFS": true,
+    "withSUSFS": false,
     "whichSUSFS": "susfs-159",
     "withKPM": false,
     "toolchains": [
